@@ -1,9 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
 :root {
-    --pink: rgb(250, 127, 148);
+    --pink: #656665;
     --red: tomato;
     --green: green;
-    --black: #333;
+    --black: #656665
     --white: #fff;
     --bg-color: #eee;
     --dark-bg: rgba(0, 0, 0, .7);
