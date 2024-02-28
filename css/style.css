@@ -3,7 +3,7 @@
     --pink: #666565;
     --red: tomato;
     --green: green;
-    --black: #656665
+    --black: #656665; /* Added semicolon here */
     --white: #fff;
     --bg-color: #eee;
     --dark-bg: rgba(0, 0, 0, .7);
