@@ -589,13 +589,13 @@ section {
     transform: translate(0, -50%);
     background-color: #fff;
     padding: 20px;
-    border: 2px solid #656665;
+    border: 2px solid #666565;
     /* Blue border */
     border-radius: 8px;
     box-shadow: 0 0 15px rgba(0, 123, 255, 0.3);
     /* Blue box shadow */
     z-index: 999;
-    max-width: 200px;
+    max-width: 250px;
     /* Adjust as needed */
 }
 
