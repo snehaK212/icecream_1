@@ -141,7 +141,7 @@ section {
 }
 
 .header .flex .navbar a:hover {
-    color: yellow;
+    color: skyblue;
 }
 
 .header .flex .cart {
@@ -151,7 +151,7 @@ section {
 }
 
 .header .flex .cart:hover {
-    color: yellow;
+    color: skyblue;
 }
 
 .header .flex .cart span {
@@ -589,13 +589,13 @@ section {
     transform: translate(0, -50%);
     background-color: #fff;
     padding: 20px;
-    border: 2px solid #007bff;
+    border: 2px solid #656665;
     /* Blue border */
     border-radius: 8px;
     box-shadow: 0 0 15px rgba(0, 123, 255, 0.3);
     /* Blue box shadow */
     z-index: 999;
-    max-width: 300px;
+    max-width: 200px;
     /* Adjust as needed */
 }
 
