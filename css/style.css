@@ -141,7 +141,7 @@ section {
 }
 
 .header .flex .navbar a:hover {
-    color: skyblue;
+    color: hotpink;
 }
 
 .header .flex .cart {
@@ -151,7 +151,7 @@ section {
 }
 
 .header .flex .cart:hover {
-    color: skyblue;
+    color: hotpink;
 }
 
 .header .flex .cart span {
@@ -592,10 +592,10 @@ section {
     border: 2px solid #666565;
     /* Blue border */
     border-radius: 8px;
-    box-shadow: 0 0 15px rgba(0, 123, 255, 0.3);
+    box-shadow: 0 0 15px gainsboro;
     /* Blue box shadow */
     z-index: 999;
-    max-width: 250px;
+    max-width: 350px;
     /* Adjust as needed */
 }
 
