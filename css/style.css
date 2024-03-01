@@ -141,7 +141,7 @@ section {
 }
 
 .header .flex .navbar a:hover {
-    color: hotpink;
+    color: grey;
 }
 
 .header .flex .cart {
@@ -151,7 +151,7 @@ section {
 }
 
 .header .flex .cart:hover {
-    color: hotpink;
+    color: grey;
 }
 
 .header .flex .cart span {
