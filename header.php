@@ -29,7 +29,7 @@
 <!-- Chatbot iframe -->
 <div id="chatbotContainer" style="display: none;">
 <button class="close-btn" onclick="closeChatbot()">Close</button>
-<iframe src='https://webchat.botframework.com/embed/food-project-bot?s=4d1EvmMPNH0.Zs1aqgpZV6aqTiJYNVHuWgvv7pHVHXGULYA4CseL1l8'  style='min-width: 300px; width: 100%; min-height: 500px;'></iframe>
+<iframe src='https://webchat.botframework.com/embed/sneha-chatbot-bot?s=QRW5r16orRY.VOCxOzBBJuoCoy_77jJ63VPyzCJIzXFBOlyQl8kB89w'  style='min-width: 300px; width: 100%; min-height: 500px;'></iframe>
 </div>
 <script>
     document.addEventListener('DOMContentLoaded', function() {
