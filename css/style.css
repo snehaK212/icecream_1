@@ -595,7 +595,7 @@ section {
     box-shadow: 0 0 15px gainsboro;
     /* Blue box shadow */
     z-index: 999;
-    max-width: 350px;
+    max-width: 300px;
     /* Adjust as needed */
 }
 
