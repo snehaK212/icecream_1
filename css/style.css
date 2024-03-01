@@ -581,6 +581,10 @@ section {
     margin-left: 2rem;
 }
 
+.header .flex .chatbot-link:hover{
+    color:grey;
+}
+
 #chatbotContainer {
     display: none;
     position: fixed;
@@ -594,6 +598,7 @@ section {
     box-shadow: 0 0 15px gainsboro;
     z-index: 999;
     max-width: 350px;
+    max-height: 450px;
    
 }
 
