@@ -595,13 +595,13 @@ section {
     box-shadow: 0 0 15px gainsboro;
     /* Blue box shadow */
     z-index: 999;
-    max-width: 300px;
+    max-width: 350px;
     /* Adjust as needed */
 }
 
 .close-btn {
     position: absolute;
-    top: 10px;
+    top: 15px;
     right: 10px;
     cursor: pointer;
     font-size: 14px;
