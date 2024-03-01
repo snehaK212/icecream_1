@@ -582,7 +582,7 @@ section {
 }
 
 .header .flex .chatbot-link:hover{
-    color:grey;
+    color:black;
 }
 
 #chatbotContainer {
