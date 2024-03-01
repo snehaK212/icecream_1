@@ -28,7 +28,7 @@
 </header>
 <!-- Chatbot iframe -->
 <div id="chatbotContainer" style="display: none;">
-<button class="close-btn" onclick="closeChatbot()">Close</button>
+<!-- <button class="close-btn" onclick="closeChatbot()">Close</button> -->
 <iframe src='https://webchat.botframework.com/embed/chatbotice-bot?s=nBXJ_YyCL04.dzEFaHaJf_taCawlpcDJHH4IxEwu8_tr7-VoeHA1YQk'  style='min-width: 300px; width: 100%; min-height: 500px;'></iframe>
 </div>
 <script>
