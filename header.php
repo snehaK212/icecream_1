@@ -20,7 +20,7 @@
       ?>
 
       <a href="cart.php" class="cart">cart <span><?php echo $row_count; ?></span> </a>
-      <a href="#" id="chatIcon" class="chatbot-link">Chatbot</a>
+      <a href="#" id="chatIcon" class="chatbot-link">ChatUs</a>
       <div id="menu-btn" class="fas fa-bars"></div>
 
    </div>
