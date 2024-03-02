@@ -58,7 +58,7 @@ Azure AI Service <br>
 <img src="https://github.com/Manisha-Mane01/foodie_Basket/blob/main/Screenshots/project.png" alt="final-project-demo"></img>
 
 <h3>Resource Visualizer</h3>
-<img src="https://github.com/Manisha-Mane01/foodie_Basket/blob/main/Screenshots/myproject.png" alt="resource-display"></img>
+<img src="https://github.com/snehaK212/icecream_1/blob/main/Screenshots/visualizer.png" alt="resource-display"></img>
 
 <h2>Final Project Statement</h2>
 <p align="justify">
