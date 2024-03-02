@@ -46,7 +46,7 @@ Azure AI Service <br>
 <h2>Screenshots</h2>
 <h3>Azure App Service</h3>
 <b>Description :</b><p align="justify">Azure App Service provides a scalable and reliable hosting environment for the Multilingual Content Hub. It ensures seamless deployment and high availability, facilitating an optimal user experience.</p>
-<img src="https://github.com/Manisha-Mane01/foodie_Basket/blob/main/Screenshots/asp.png" alt="azure-app-service"></img><br>
+<img src="" alt="azure-app-service"></img><br>
 <h3>Azure Databse for MySQL</h3>
 <b>Description :</b><p align="justify"> The project leverages Azure Database for MySQL to efficiently manage and store user interaction history. This relational database service ensures data consistency and supports quick retrieval of information.</p>
 <img src="https://github.com/Manisha-Mane01/foodie_Basket/blob/main/Screenshots/azuredb.png" alt="azure-mysql-db-service"></img><br>
