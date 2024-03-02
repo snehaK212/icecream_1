@@ -15,7 +15,7 @@ Azure AI Service <br>
 1. Azure AI ChatBot
 </h3>
 <h2>Problem Statement</h2>
-<p align="justify">Traditional food ordering systems often lack efficient user support, leading to user dissatisfaction and increased support workload. Manually managing FAQs can be time-consuming, and users may struggle to find relevant information. The need arises for an automated solution that streamlines food order operations and enhances user support.</p>
+<p align="justify">Design and conceptualize an Ice Cream Parlor Management System (ICPMS) that integrates various functionalities to optimize operations, improve customer engagement, and drive business growth. The system should cater to the unique requirements of an ice cream parlor, providing a comprehensive solution for menu management, order processing, inventory tracking, sales reporting, and customer relationship management.</p>
 <h2>Project Description</h2>
 <p align="justify">The Food Order Management System is designed to simplify food ordering processes. Users can add products to their cart, manage orders, and complete checkouts seamlessly. The integration of a Chatbot powered by Azure AI Services enriches the user experience by providing quick access to a comprehensive FAQs section. Users can ask questions related to the food ordering process, and the Chatbot intelligently responds with relevant information.</p><br>
 <b>Key Features :</b>
