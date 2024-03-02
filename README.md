@@ -17,7 +17,7 @@ Azure AI Service <br>
 <h2>Problem Statement</h2>
 <p align="justify">Design and conceptualize an Ice Cream Parlor Management System (ICPMS) that integrates various functionalities to optimize operations, improve customer engagement, and drive business growth. The system should cater to the unique requirements of an ice cream parlor, providing a comprehensive solution for menu management, order processing, inventory tracking, sales reporting, and customer relationship management.</p>
 <h2>Project Description</h2>
-<p align="justify">The Ice-Cream Parlour Management System is designed to simplify icecream ordering processes. Users can add products to their cart, manage orders, and complete checkouts seamlessly. The integration of a Chatbot powered by Azure AI Services enriches the user experience by providing quick access to a comprehensive FAQs section. Users can ask questions related to the icecream ordering process, and the Chatbot intelligently responds with relevant information.</p><br>
+<p align="justify">The Ice-Cream Parlour Management System (ICPMS) is designed to simplify icecream ordering processes. Users can add products to their cart, manage orders, and complete checkouts seamlessly. The integration of a Chatbot powered by Azure AI Services enriches the user experience by providing quick access to a comprehensive FAQs section. Users can ask questions related to the icecream ordering process, and the Chatbot intelligently responds with relevant information.</p><br>
 <b>Key Features :</b>
 <ul>
     <li>ChatBot Support</li>
@@ -27,7 +27,7 @@ Azure AI Service <br>
     <li>Azure SQL Database for Efficient Data Management</li>
 </ul>
 <b>Future Enhancements :</b><br>
-<p align="justify">The Ice-Cream Parlour Management System isn't only a standalone venture but a foundation for ability future enhancements. Integrations with additional Azure offerings, which includes Azure Storage for coping with multimedia content and Azure Key Vault for more suitable security, could be explored. Moreover, monitoring and analytics via Azure Monitor and Azure Application Insights pave the manner for continuous improvement and optimization.</p>
+<p align="justify">The Ice-Cream Parlour Management System (ICPMS) isn't only a standalone venture but a foundation for ability future enhancements. Integrations with additional Azure offerings, which includes Azure Storage for coping with multimedia content and Azure Key Vault for more suitable security, could be explored. Moreover, monitoring and analytics via Azure Monitor and Azure Application Insights pave the manner for continuous improvement and optimization.</p>
 <h2>Core Azure Services</h2>
 <b>Azure App Service :</b><br><p align="justify"><br>The project utilizes Azure App Service to host the web application, ensuring scalability, reliability, and ease of deployment. This service enables seamless integration with other Azure components and provides a secure environment for the application.</p>
 
@@ -35,7 +35,7 @@ Azure AI Service <br>
 <h2>Azure AI Service</h2>
 <b>Azure AI Chatbot Service :</b><br><br><p align="justify">Empowers the Chatbot to understand user queries and provide accurate responses based on the FAQs database.</p>
 <h2>Other Azure Technologies / Services</h2>
-<p align="justify">In Ice-Cream Parlour Management System, Azure Monitor and Azure Application Insights collaboratively form a dynamic duo, meticulously overseeing application health and person stories.</p>
+<p align="justify">In Ice-Cream Parlour Management System (ICPMS), Azure Monitor and Azure Application Insights collaboratively form a dynamic duo, meticulously overseeing application health and person stories.</p>
 
 <b>Azure Monitor :</b><p align="justify"><b>Real-time Performance Metrics :</b> Monitors vital overall performance indicators, ensuring the application runs seamlessly.<br>
 <b>Proactive Alerts :</b> Issues immediately alerts on deviations from set overall performance thresholds, enabling fast responses to capability disruptions.</p>
