@@ -55,7 +55,7 @@ Azure AI Service <br>
 <img src="https://github.com/snehaK212/icecream_1/blob/main/Screenshots/chatbot.png" alt="azure-translator-ai-service"></img><br>
 <h3>Working Live Project Display</h3>
 <b>Description :</b><p align="justify">Here I am attaching the final working website's screenshot for the reference.</p>
-<img src="https://github.com/Manisha-Mane01/foodie_Basket/blob/main/Screenshots/project.png" alt="final-project-demo"></img>
+<img src="https://github.com/snehaK212/icecream_1/blob/main/Screenshots/project.png" alt="final-project-demo"></img>
 
 <h3>Resource Visualizer</h3>
 <img src="https://github.com/snehaK212/icecream_1/blob/main/Screenshots/visualizer.png" alt="resource-display"></img>
