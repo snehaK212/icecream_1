@@ -67,4 +67,4 @@ The Food Order Management System with Azure AI Chatbot Integration is a comprehe
 <p align="justify">
 <b>As we finish, Foodie Basket: Hassle-free Ordering isn't always just an utility; it's an ongoing exploration of endless communication possibilities. In this era of worldwide connectivity, this undertaking signifies a pivotal step toward a greater accessible and interconnected international.</b>
 </p> <br>
-</h2><b><a href="https://foodiebasket.azurewebsites.net/">Foodie Basket: Hassle-free Ordering Web App using Azure AI ChatBot Service</b></a>
+</h2><b><a href="https://iceparlour.azurewebsites.net/">Foodie Basket: Hassle-free Ordering Web App using Azure AI ChatBot Service</b></a>
