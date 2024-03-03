@@ -11,7 +11,7 @@
 Core Azure Services :
 </h3>
 1. Azure App Service <br>
-2. Azure SQL Database<br> <br>
+2. Azure SQL Database<br>
 <h3>
 Azure AI Service :
 </h3>
