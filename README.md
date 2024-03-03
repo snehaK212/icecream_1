@@ -1,5 +1,5 @@
 <h1>Microsoft-Future-Ready-Talent-Virtual-Internship-Project</h1>
-<h2>Project Title:</h2><b><a href="https://iceparlour.azurewebsites.net/">Ice-Cream Parlour: Hassle-free Ordering Web App using Azure AI ChatBot Service.</b></a>
+<h2>Project Title:</h2><b><a href="https://iceparlour.azurewebsites.net/">Ice-Cream Parlour: Ice-Cream Carnival Ordering Web App using Azure AI ChatBot Service.</b></a>
 <br>
 <h2>Project Details</h2>
 <b>Project Demo URL :</b> https://iceparlour.azurewebsites.net/ <br>
@@ -65,6 +65,6 @@ Azure AI Service <br>
 The Ice-Cream Parlour Management System with Azure AI Chatbot Integration is a comprehensive solution that addresses the challenges of traditional icecream ordering systems. Leveraging Azure App Service and Azure MySQL Database ensures a scalable and secure environment for hosting the application and managing data. The incorporation of Azure AI Services enhances user support by providing an intelligent Chatbot capable of addressing user queries and offering quick access to a detailed FAQs section. The project not only streamlines icecream order operations but also sets the foundation for further enhancements and innovations in user interaction and support.
 </p>
 <p align="justify">
-<b>As we finish, Ice-Cream Parlour: Hassle-free Ordering isn't always just an utility; it's an ongoing exploration of endless communication possibilities. In this era of worldwide connectivity, this undertaking signifies a pivotal step toward a greater accessible and interconnected international.</b>
+<b>As we finish, Ice-Cream Parlour: Ice-Cream Carnival Ordering isn't always just an utility; it's an ongoing exploration of endless communication possibilities. In this era of worldwide connectivity, this undertaking signifies a pivotal step toward a greater accessible and interconnected international.</b>
 </p> <br>
-</h2><b><a href="https://iceparlour.azurewebsites.net/">Ice-Cream Parlour: Hassle-free Ordering Web App using Azure AI ChatBot Service</b></a>
+</h2><b><a href="https://iceparlour.azurewebsites.net/">Ice-Cream Parlour: Ice-Cream Carnival Ordering Web App using Azure AI ChatBot Service</b></a>
