@@ -8,12 +8,14 @@
 <b>Industry :</b> Lifestyle and Technology<br>
 <h2>Azure Services Used </h2>
 <h3>
-Core Azure Services : <br>
+Core Azure Services :
+</h3><br>
 1. Azure App Service <br>
 2. Azure SQL Database<br> <br>
-Azure AI Service <br>
+<h3>
+Azure AI Service :
+</h3><br>
 1. Azure AI ChatBot
-</h3>
 <h2>Problem Statement</h2>
 <p align="justify">Design and conceptualize an Ice-Cream Parlor Management System (ICPMS) that integrates various functionalities to optimize operations, improve customer engagement, and drive business growth. The system should cater to the unique requirements of an ice cream parlor, providing a comprehensive solution for menu management, order processing, inventory tracking, sales reporting, and customer relationship management.</p>
 <h2>Project Description</h2>
