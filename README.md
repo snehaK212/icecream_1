@@ -3,7 +3,7 @@
 <br>
 <h2>Project Details</h2>
 <b>Project Demo URL :</b> https://iceparlour.azurewebsites.net/ <br>
-<b>Demo Video URL :</b> https://drive.google.com/file/d/1hVdrjuG9k2bgAZyxGRrC-5jStU3GXguL/view?usp=drive_link <br>
+<b>Demo Video URL :</b>https://drive.google.com/file/d/1hVdrjuG9k2bgAZyxGRrC-5jStU3GXguL/view?usp=drive_link <br>
 <b>Github Repository URL :</b> https://github.com/snehaK212/icecream_1 <br>
 <b>Industry :</b> Lifestyle and Technology<br>
 <h2>Azure Services Used </h2>
